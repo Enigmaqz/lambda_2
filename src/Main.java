@@ -7,6 +7,5 @@ public class Main {
 
         Worker worker = new Worker(listener, errorListener);
         worker.start();
-
     }
 }
